@@ -14,7 +14,7 @@ on:
       commit:
         description: 'Commit'
         required: true
-        default: 'Penghijauan'
+        default: 'Menanam-Padi'
       limit:
         description: 'Limit Commit'
         required: true
