@@ -6,7 +6,7 @@ on:
       email:
         description: 'EMail'
         required: true
-        default: 'abukhaisa06@gmail.com'
+        default: 'muhammadsombul@gmail.com'
       username:
         description: 'Username'
         required: true
