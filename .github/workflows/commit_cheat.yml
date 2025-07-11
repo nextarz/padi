@@ -27,7 +27,7 @@ jobs:
         run: |
           set -o pipefail
           git config --global --add safe.directory /github/workspace
-          git config --local user.email "abukhaisa06@gmail.com"
+          git config --local user.email "muhammadsombul@gmail.com"
           git config --local user.name "nextarz"
           git config --global --add safe.directory /github/workspace
           git add -A
