@@ -14,7 +14,7 @@ on:
       commit:
         description: 'Commit'
         required: true
-        default: 'Menanam-Padi'
+        default: 'padi'
       limit:
         description: 'Limit Commit'
         required: true
